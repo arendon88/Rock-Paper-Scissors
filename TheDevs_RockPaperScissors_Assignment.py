@@ -47,7 +47,7 @@ car = [
     "gtr nismo 2020", "dodge charger", "f150", "silverado", "dodge viper",
     "jeep gladiator", "batmobile", "ferrari roma", "ferrari 488",
     "rolls royce phantom", "aston martin valkyrie", "dodge challenger",
-    "lamborghini huracan", "chevrolet camaro zl1 1le 2018", "laferrar"
+    "lamborghini huracan", "chevrolet camaro zl1 1le 2018", "laferrari"
 ]
 nintendo = [
     "kirby", "mario", "bowser", "peach", "todd the toad", "luigi", "king boo",
@@ -596,3 +596,4 @@ else:
   exit()
 FunMode(PlayerSettings["Points"], PlayerSettings["GoalPoints"],
         PlayerSettings["Rounds"], choice, mode, PlayerSettings["name"])
+
